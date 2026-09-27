@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Välj trollformel i utrustad trollbok",
+  "key.ars_curio_spellbook.cast_spell": "Kasta trollformel från utrustad trollbok",
+  "key.ars_curio_spellbook.edit_spellbook": "Redigera utrustad trollbok",
+  "key.ars_curio_spellbook.next_spellbook": "Välj nästa utrustade trollbok",
+  "key.ars_curio_spellbook.previous_spellbook": "Välj föregående utrustade trollbok",
+  "key.ars_curio_spellbook.next_spell": "Nästa trollformel i utrustad trollbok",
+  "key.ars_curio_spellbook.previous_spell": "Föregående trollformel i utrustad trollbok",
+  "curios.identifier.ars_spellbook": "Trollbok",
+  "curios.modifiers.ars_spellbook": "När den bärs som trollbok:",
+  "message.ars_curio_spellbook.selected_spellbook": "Trollboksplats %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Trollboksplats %s: tom",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Trollboksplats %s finns inte",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Du har inga trollboksplatser",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Trollboksplats %s togs bort. Plats 1 vald."
+}

@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Изабери чаролију опремљене књиге чаролија",
+  "key.ars_curio_spellbook.cast_spell": "Баци чаролију из опремљене књиге чаролија",
+  "key.ars_curio_spellbook.edit_spellbook": "Уреди опремљену књигу чаролија",
+  "key.ars_curio_spellbook.next_spellbook": "Изабери следећу опремљену књигу чаролија",
+  "key.ars_curio_spellbook.previous_spellbook": "Изабери претходну опремљену књигу чаролија",
+  "key.ars_curio_spellbook.next_spell": "Следећа чаролија у опремљеној књизи чаролија",
+  "key.ars_curio_spellbook.previous_spell": "Претходна чаролија у опремљеној књизи чаролија",
+  "curios.identifier.ars_spellbook": "Књига чаролија",
+  "curios.modifiers.ars_spellbook": "Када се носи као књига чаролија:",
+  "message.ars_curio_spellbook.selected_spellbook": "Слот књиге чаролија %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Слот књиге чаролија %s: празан",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Слот књиге чаролија %s не постоји",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Немате слотове за књигу чаролија",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Слот књиге чаролија %s је уклоњен. Изабран је слот 1."
+}

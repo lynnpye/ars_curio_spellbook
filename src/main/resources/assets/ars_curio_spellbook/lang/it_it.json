@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Scegli incantesimo del libro degli incantesimi equipaggiato",
+  "key.ars_curio_spellbook.cast_spell": "Lancia incantesimo del libro degli incantesimi equipaggiato",
+  "key.ars_curio_spellbook.edit_spellbook": "Modifica libro degli incantesimi equipaggiato",
+  "key.ars_curio_spellbook.next_spellbook": "Seleziona libro degli incantesimi equipaggiato successivo",
+  "key.ars_curio_spellbook.previous_spellbook": "Seleziona libro degli incantesimi equipaggiato precedente",
+  "key.ars_curio_spellbook.next_spell": "Incantesimo successivo del libro equipaggiato",
+  "key.ars_curio_spellbook.previous_spell": "Incantesimo precedente del libro equipaggiato",
+  "curios.identifier.ars_spellbook": "Libro degli incantesimi",
+  "curios.modifiers.ars_spellbook": "Quando indossato come libro degli incantesimi:",
+  "message.ars_curio_spellbook.selected_spellbook": "Slot libro degli incantesimi %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Slot libro degli incantesimi %s: vuoto",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Lo slot libro degli incantesimi %s non esiste",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Non hai slot per libri degli incantesimi",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Lo slot libro degli incantesimi %s è stato rimosso. Selezionato lo slot 1."
+}

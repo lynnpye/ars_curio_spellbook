@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Zauber des angelegten Zauberbuchs wählen",
+  "key.ars_curio_spellbook.cast_spell": "Zauber des angelegten Zauberbuchs wirken",
+  "key.ars_curio_spellbook.edit_spellbook": "Angelegtes Zauberbuch bearbeiten",
+  "key.ars_curio_spellbook.next_spellbook": "Nächstes angelegtes Zauberbuch wählen",
+  "key.ars_curio_spellbook.previous_spellbook": "Vorheriges angelegtes Zauberbuch wählen",
+  "key.ars_curio_spellbook.next_spell": "Nächster Zauber im angelegten Zauberbuch",
+  "key.ars_curio_spellbook.previous_spell": "Vorheriger Zauber im angelegten Zauberbuch",
+  "curios.identifier.ars_spellbook": "Zauberbuch",
+  "curios.modifiers.ars_spellbook": "Wenn als Zauberbuch getragen:",
+  "message.ars_curio_spellbook.selected_spellbook": "Zauberbuch-Slot %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Zauberbuch-Slot %s: leer",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Zauberbuch-Slot %s existiert nicht",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Du hast keine Zauberbuch-Slots",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Zauberbuch-Slot %s wurde entfernt. Slot 1 ausgewählt."
+}

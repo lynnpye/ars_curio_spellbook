@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Kies towerspreuk van toegeruste towerboek",
+  "key.ars_curio_spellbook.cast_spell": "Gebruik towerspreuk van toegeruste towerboek",
+  "key.ars_curio_spellbook.edit_spellbook": "Wysig toegeruste towerboek",
+  "key.ars_curio_spellbook.next_spellbook": "Kies volgende toegeruste towerboek",
+  "key.ars_curio_spellbook.previous_spellbook": "Kies vorige toegeruste towerboek",
+  "key.ars_curio_spellbook.next_spell": "Volgende towerspreuk in toegeruste towerboek",
+  "key.ars_curio_spellbook.previous_spell": "Vorige towerspreuk in toegeruste towerboek",
+  "curios.identifier.ars_spellbook": "Towerboek",
+  "curios.modifiers.ars_spellbook": "Wanneer as towerboek gedra:",
+  "message.ars_curio_spellbook.selected_spellbook": "Towerboekgleuf %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Towerboekgleuf %s: leeg",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Towerboekgleuf %s bestaan nie",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Jy het geen towerboekgleuwe nie",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Towerboekgleuf %s is verwyder. Gleuf 1 gekies."
+}

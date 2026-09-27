@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "装備中のスペルブックのスペルを選択",
+  "key.ars_curio_spellbook.cast_spell": "装備中のスペルブックのスペルを詠唱",
+  "key.ars_curio_spellbook.edit_spellbook": "装備中のスペルブックを編集",
+  "key.ars_curio_spellbook.next_spellbook": "次の装備中のスペルブックを選択",
+  "key.ars_curio_spellbook.previous_spellbook": "前の装備中のスペルブックを選択",
+  "key.ars_curio_spellbook.next_spell": "装備中のスペルブックの次のスペル",
+  "key.ars_curio_spellbook.previous_spell": "装備中のスペルブックの前のスペル",
+  "curios.identifier.ars_spellbook": "スペルブック",
+  "curios.modifiers.ars_spellbook": "スペルブックとして装備時:",
+  "message.ars_curio_spellbook.selected_spellbook": "スペルブックスロット %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "スペルブックスロット %s: 空",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "スペルブックスロット %s は存在しません",
+  "message.ars_curio_spellbook.no_spellbook_slots": "スペルブックスロットがありません",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "スペルブックスロット %s が削除されました。スロット 1 を選択しました。"
+}

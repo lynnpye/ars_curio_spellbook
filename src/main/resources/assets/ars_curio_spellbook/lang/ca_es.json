@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Tria l'encanteri del llibre d'encanteris equipat",
+  "key.ars_curio_spellbook.cast_spell": "Llança l'encanteri del llibre d'encanteris equipat",
+  "key.ars_curio_spellbook.edit_spellbook": "Edita el llibre d'encanteris equipat",
+  "key.ars_curio_spellbook.next_spellbook": "Selecciona el següent llibre d'encanteris equipat",
+  "key.ars_curio_spellbook.previous_spellbook": "Selecciona l'anterior llibre d'encanteris equipat",
+  "key.ars_curio_spellbook.next_spell": "Següent encanteri del llibre d'encanteris equipat",
+  "key.ars_curio_spellbook.previous_spell": "Encanteri anterior del llibre d'encanteris equipat",
+  "curios.identifier.ars_spellbook": "Llibre d'encanteris",
+  "curios.modifiers.ars_spellbook": "Equipat com a llibre d'encanteris:",
+  "message.ars_curio_spellbook.selected_spellbook": "Espai de llibre d'encanteris %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Espai de llibre d'encanteris %s: buit",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "L'espai de llibre d'encanteris %s no existeix",
+  "message.ars_curio_spellbook.no_spellbook_slots": "No tens espais de llibre d'encanteris",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "S'ha eliminat l'espai de llibre d'encanteris %s. S'ha seleccionat l'espai 1."
+}

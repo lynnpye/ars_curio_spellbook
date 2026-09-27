@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "בחירת לחש מספר הלחשים המצויד",
+  "key.ars_curio_spellbook.cast_spell": "הטלת לחש מספר הלחשים המצויד",
+  "key.ars_curio_spellbook.edit_spellbook": "עריכת ספר הלחשים המצויד",
+  "key.ars_curio_spellbook.next_spellbook": "בחירת ספר הלחשים המצויד הבא",
+  "key.ars_curio_spellbook.previous_spellbook": "בחירת ספר הלחשים המצויד הקודם",
+  "key.ars_curio_spellbook.next_spell": "הלחש הבא בספר הלחשים המצויד",
+  "key.ars_curio_spellbook.previous_spell": "הלחש הקודם בספר הלחשים המצויד",
+  "curios.identifier.ars_spellbook": "ספר לחשים",
+  "curios.modifiers.ars_spellbook": "כאשר נלבש כספר לחשים:",
+  "message.ars_curio_spellbook.selected_spellbook": "משבצת ספר לחשים %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "משבצת ספר לחשים %s: ריקה",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "משבצת ספר לחשים %s אינה קיימת",
+  "message.ars_curio_spellbook.no_spellbook_slots": "אין לך משבצות לספר לחשים",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "משבצת ספר לחשים %s הוסרה. נבחרה משבצת 1."
+}

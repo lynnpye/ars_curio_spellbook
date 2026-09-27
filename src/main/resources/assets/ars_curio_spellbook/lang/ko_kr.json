@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "착용한 마도서의 주문 선택",
+  "key.ars_curio_spellbook.cast_spell": "착용한 마도서의 주문 시전",
+  "key.ars_curio_spellbook.edit_spellbook": "착용한 마도서 편집",
+  "key.ars_curio_spellbook.next_spellbook": "다음 착용 마도서 선택",
+  "key.ars_curio_spellbook.previous_spellbook": "이전 착용 마도서 선택",
+  "key.ars_curio_spellbook.next_spell": "착용한 마도서의 다음 주문",
+  "key.ars_curio_spellbook.previous_spell": "착용한 마도서의 이전 주문",
+  "curios.identifier.ars_spellbook": "마도서",
+  "curios.modifiers.ars_spellbook": "마도서로 착용 시:",
+  "message.ars_curio_spellbook.selected_spellbook": "마도서 슬롯 %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "마도서 슬롯 %s: 비어 있음",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "마도서 슬롯 %s이(가) 존재하지 않습니다",
+  "message.ars_curio_spellbook.no_spellbook_slots": "마도서 슬롯이 없습니다",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "마도서 슬롯 %s이(가) 제거되었습니다. 슬롯 1을 선택했습니다."
+}

@@ -1,0 +1,11 @@
+{
+  "size": 1,
+  "order": 5,
+  "icon": "ars_curio_spellbook:slot/ars_spellbook",
+  "add_cosmetic": false,
+  "render_toggle": false,
+  "validators": [
+    "curios:tag",
+    "ars_curio_spellbook:is_spellbook"
+  ]
+}

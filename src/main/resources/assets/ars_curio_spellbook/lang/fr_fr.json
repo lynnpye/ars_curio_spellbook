@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Choisir le sort du livre de sorts équipé",
+  "key.ars_curio_spellbook.cast_spell": "Lancer le sort du livre de sorts équipé",
+  "key.ars_curio_spellbook.edit_spellbook": "Modifier le livre de sorts équipé",
+  "key.ars_curio_spellbook.next_spellbook": "Sélectionner le livre de sorts équipé suivant",
+  "key.ars_curio_spellbook.previous_spellbook": "Sélectionner le livre de sorts équipé précédent",
+  "key.ars_curio_spellbook.next_spell": "Sort suivant du livre de sorts équipé",
+  "key.ars_curio_spellbook.previous_spell": "Sort précédent du livre de sorts équipé",
+  "curios.identifier.ars_spellbook": "Livre de sorts",
+  "curios.modifiers.ars_spellbook": "Porté comme livre de sorts :",
+  "message.ars_curio_spellbook.selected_spellbook": "Emplacement de livre de sorts %s : %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Emplacement de livre de sorts %s : vide",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "L'emplacement de livre de sorts %s n'existe pas",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Vous n'avez aucun emplacement de livre de sorts",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "L'emplacement de livre de sorts %s a été retiré. Emplacement 1 sélectionné."
+}

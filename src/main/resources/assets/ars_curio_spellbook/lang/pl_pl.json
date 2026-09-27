@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Wybierz zaklęcie noszonej księgi zaklęć",
+  "key.ars_curio_spellbook.cast_spell": "Rzuć zaklęcie z noszonej księgi zaklęć",
+  "key.ars_curio_spellbook.edit_spellbook": "Edytuj noszoną księgę zaklęć",
+  "key.ars_curio_spellbook.next_spellbook": "Wybierz następną noszoną księgę zaklęć",
+  "key.ars_curio_spellbook.previous_spellbook": "Wybierz poprzednią noszoną księgę zaklęć",
+  "key.ars_curio_spellbook.next_spell": "Następne zaklęcie w noszonej księdze zaklęć",
+  "key.ars_curio_spellbook.previous_spell": "Poprzednie zaklęcie w noszonej księdze zaklęć",
+  "curios.identifier.ars_spellbook": "Księga zaklęć",
+  "curios.modifiers.ars_spellbook": "Noszona jako księga zaklęć:",
+  "message.ars_curio_spellbook.selected_spellbook": "Miejsce na księgę zaklęć %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Miejsce na księgę zaklęć %s: puste",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Miejsce na księgę zaklęć %s nie istnieje",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Nie masz miejsc na księgę zaklęć",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Usunięto miejsce na księgę zaklęć %s. Wybrano miejsce 1."
+}

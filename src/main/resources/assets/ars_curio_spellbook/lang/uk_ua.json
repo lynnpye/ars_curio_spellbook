@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Вибрати закляття вдягненої книги заклять",
+  "key.ars_curio_spellbook.cast_spell": "Застосувати закляття вдягненої книги заклять",
+  "key.ars_curio_spellbook.edit_spellbook": "Редагувати вдягнену книгу заклять",
+  "key.ars_curio_spellbook.next_spellbook": "Наступна вдягнена книга заклять",
+  "key.ars_curio_spellbook.previous_spellbook": "Попередня вдягнена книга заклять",
+  "key.ars_curio_spellbook.next_spell": "Наступне закляття вдягненої книги",
+  "key.ars_curio_spellbook.previous_spell": "Попереднє закляття вдягненої книги",
+  "curios.identifier.ars_spellbook": "Книга заклять",
+  "curios.modifiers.ars_spellbook": "Якщо вдягнено як книгу заклять:",
+  "message.ars_curio_spellbook.selected_spellbook": "Слот книги заклять %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Слот книги заклять %s: порожній",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Слота книги заклять %s не існує",
+  "message.ars_curio_spellbook.no_spellbook_slots": "У вас немає слотів для книги заклять",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Слот книги заклять %s видалено. Вибрано слот 1."
+}

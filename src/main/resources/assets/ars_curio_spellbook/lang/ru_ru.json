@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Выбрать заклинание надетой книги заклинаний",
+  "key.ars_curio_spellbook.cast_spell": "Сотворить заклинание надетой книги заклинаний",
+  "key.ars_curio_spellbook.edit_spellbook": "Редактировать надетую книгу заклинаний",
+  "key.ars_curio_spellbook.next_spellbook": "Следующая надетая книга заклинаний",
+  "key.ars_curio_spellbook.previous_spellbook": "Предыдущая надетая книга заклинаний",
+  "key.ars_curio_spellbook.next_spell": "Следующее заклинание надетой книги",
+  "key.ars_curio_spellbook.previous_spell": "Предыдущее заклинание надетой книги",
+  "curios.identifier.ars_spellbook": "Книга заклинаний",
+  "curios.modifiers.ars_spellbook": "Если надето как книга заклинаний:",
+  "message.ars_curio_spellbook.selected_spellbook": "Слот книги заклинаний %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Слот книги заклинаний %s: пусто",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Слота книги заклинаний %s не существует",
+  "message.ars_curio_spellbook.no_spellbook_slots": "У вас нет слотов для книги заклинаний",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Слот книги заклинаний %s удалён. Выбран слот 1."
+}

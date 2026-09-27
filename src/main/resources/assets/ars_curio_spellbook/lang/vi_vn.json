@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Chọn phép của sách thần chú đang trang bị",
+  "key.ars_curio_spellbook.cast_spell": "Thi triển phép của sách thần chú đang trang bị",
+  "key.ars_curio_spellbook.edit_spellbook": "Chỉnh sửa sách thần chú đang trang bị",
+  "key.ars_curio_spellbook.next_spellbook": "Chọn sách thần chú đang trang bị tiếp theo",
+  "key.ars_curio_spellbook.previous_spellbook": "Chọn sách thần chú đang trang bị trước đó",
+  "key.ars_curio_spellbook.next_spell": "Phép tiếp theo trong sách thần chú đang trang bị",
+  "key.ars_curio_spellbook.previous_spell": "Phép trước đó trong sách thần chú đang trang bị",
+  "curios.identifier.ars_spellbook": "Sách thần chú",
+  "curios.modifiers.ars_spellbook": "Khi mang như sách thần chú:",
+  "message.ars_curio_spellbook.selected_spellbook": "Ô sách thần chú %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Ô sách thần chú %s: trống",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Ô sách thần chú %s không tồn tại",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Bạn không có ô sách thần chú nào",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Ô sách thần chú %s đã bị gỡ bỏ. Đã chọn ô 1."
+}

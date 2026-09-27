@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Kuşanılmış büyü kitabının büyüsünü seç",
+  "key.ars_curio_spellbook.cast_spell": "Kuşanılmış büyü kitabının büyüsünü yap",
+  "key.ars_curio_spellbook.edit_spellbook": "Kuşanılmış büyü kitabını düzenle",
+  "key.ars_curio_spellbook.next_spellbook": "Sonraki kuşanılmış büyü kitabını seç",
+  "key.ars_curio_spellbook.previous_spellbook": "Önceki kuşanılmış büyü kitabını seç",
+  "key.ars_curio_spellbook.next_spell": "Kuşanılmış büyü kitabındaki sonraki büyü",
+  "key.ars_curio_spellbook.previous_spell": "Kuşanılmış büyü kitabındaki önceki büyü",
+  "curios.identifier.ars_spellbook": "Büyü Kitabı",
+  "curios.modifiers.ars_spellbook": "Büyü kitabı olarak kuşanıldığında:",
+  "message.ars_curio_spellbook.selected_spellbook": "Büyü kitabı yuvası %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Büyü kitabı yuvası %s: boş",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Büyü kitabı yuvası %s mevcut değil",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Hiç büyü kitabı yuvan yok",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Büyü kitabı yuvası %s kaldırıldı. Yuva 1 seçildi."
+}

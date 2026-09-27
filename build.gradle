@@ -1,0 +1,127 @@
+plugins {
+    id 'java-library'
+    id 'idea'
+    id 'net.neoforged.moddev' version '2.0.91'
+}
+
+version = "${minecraft_version}-${mod_version}"
+group = mod_group_id
+
+base {
+    archivesName = mod_id
+}
+
+// Mojang ships Java 21 to end users in 1.21+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = project.neo_version
+
+    parchment {
+        minecraftVersion = project.parchment_minecraft_version
+        mappingsVersion = project.parchment_mappings_version
+    }
+
+    runs {
+        client {
+            client()
+            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+        }
+        server {
+            server()
+			gameDirectory = project.file('run-server')
+            //programArgument '--nogui'
+            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+        }
+        configureEach {
+            systemProperty 'forge.logging.markers', 'REGISTRIES'
+            logLevel = org.slf4j.event.Level.DEBUG
+        }
+    }
+
+    mods {
+        "${mod_id}" {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+configurations {
+    runtimeClasspath.extendsFrom localRuntime
+}
+
+repositories {
+    mavenLocal()
+    maven {
+        name = 'GeckoLib'
+        url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+        content { includeGroup('software.bernie.geckolib') }
+    }
+    maven {
+        name = 'Illusive Soulworks (Curios)'
+        url = 'https://maven.theillusivec4.top/'
+    }
+    maven {
+        name = "Jared's maven (Ars Nouveau)"
+        url = 'https://maven.blamejared.com/'
+    }
+    // The repositories below host runtime dependencies that Ars Nouveau's published POM pulls in
+    // (needed for runClient / runServer, not for compiling).
+    exclusiveContent {
+        // Jade and Infiniverse
+        forRepository { maven { url = 'https://cursemaven.com' } }
+        filter { includeGroup 'curse.maven' }
+    }
+    exclusiveContent {
+        // TerraBlender
+        forRepository { maven { name = 'Forge'; url = 'https://maven.minecraftforge.net/' } }
+        filter { includeGroup 'com.github.glitchfiend' }
+    }
+    // Apache Lucene (used by Ars Nouveau's documentation search)
+    mavenCentral()
+}
+
+dependencies {
+    implementation "com.hollingsworth.ars_nouveau:ars_nouveau-${minecraft_version}:${ars_version}"
+    implementation "top.theillusivec4.curios:curios-neoforge:${curios_version}"
+    // Ars Nouveau's item/renderer classes reference GeckoLib types; needed at compile time and in dev runs.
+    implementation "software.bernie.geckolib:geckolib-neoforge-${minecraft_version}:${geckolib_version}"
+    // Ars Nouveau's editor screens extend Nuggets' BaseScreen. Ars bundles Nuggets (jar-in-jar) at runtime.
+    compileOnly "com.hollingsworth.nuggets:nuggets-neoforge-${minecraft_version}:${nuggets_version}"
+}
+
+// Expand ${...} placeholders in neoforge.mods.toml from gradle.properties.
+var generateModMetadata = tasks.register('generateModMetadata', ProcessResources) {
+    var replaceProperties = [
+            minecraft_version      : minecraft_version,
+            minecraft_version_range: minecraft_version_range,
+            neo_version            : neo_version,
+            neo_version_range      : neo_version_range,
+            loader_version_range   : loader_version_range,
+            mod_id                 : mod_id,
+            mod_name               : mod_name,
+            mod_license            : mod_license,
+            mod_version            : mod_version,
+            mod_authors            : mod_authors,
+            mod_description        : mod_description,
+            ars_version_range      : ars_version_range,
+            curios_version_range   : curios_version_range,
+    ]
+    inputs.properties replaceProperties
+    expand replaceProperties
+    from 'src/main/templates'
+    into 'build/generated/sources/modMetadata'
+}
+sourceSets.main.resources.srcDir generateModMetadata
+neoForge.ideSyncTask generateModMetadata
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+idea {
+    module {
+        downloadSources = true
+        downloadJavadoc = true
+    }
+}

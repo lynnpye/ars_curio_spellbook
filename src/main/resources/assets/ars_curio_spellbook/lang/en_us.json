@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Select Worn Spellbook Spell",
+  "key.ars_curio_spellbook.cast_spell": "Cast Worn Spellbook Spell",
+  "key.ars_curio_spellbook.edit_spellbook": "Edit Worn Spellbook",
+  "key.ars_curio_spellbook.next_spellbook": "Select Next Worn Spellbook",
+  "key.ars_curio_spellbook.previous_spellbook": "Select Previous Worn Spellbook",
+  "key.ars_curio_spellbook.next_spell": "Next Spell in Worn Spellbook",
+  "key.ars_curio_spellbook.previous_spell": "Previous Spell in Worn Spellbook",
+  "curios.identifier.ars_spellbook": "Spellbook",
+  "curios.modifiers.ars_spellbook": "When worn as spellbook:",
+  "message.ars_curio_spellbook.selected_spellbook": "Spellbook slot %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Spellbook slot %s: empty",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Spellbook slot %s doesn't exist",
+  "message.ars_curio_spellbook.no_spellbook_slots": "You have no spellbook slots",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Spellbook slot %s was removed. Slot 1 selected."
+}

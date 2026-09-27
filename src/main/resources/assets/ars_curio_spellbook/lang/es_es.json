@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Elegir hechizo del grimorio equipado",
+  "key.ars_curio_spellbook.cast_spell": "Lanzar hechizo del grimorio equipado",
+  "key.ars_curio_spellbook.edit_spellbook": "Editar grimorio equipado",
+  "key.ars_curio_spellbook.next_spellbook": "Seleccionar siguiente grimorio equipado",
+  "key.ars_curio_spellbook.previous_spellbook": "Seleccionar grimorio equipado anterior",
+  "key.ars_curio_spellbook.next_spell": "Siguiente hechizo del grimorio equipado",
+  "key.ars_curio_spellbook.previous_spell": "Hechizo anterior del grimorio equipado",
+  "curios.identifier.ars_spellbook": "Grimorio",
+  "curios.modifiers.ars_spellbook": "Equipado como grimorio:",
+  "message.ars_curio_spellbook.selected_spellbook": "Espacio de grimorio %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Espacio de grimorio %s: vacío",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "El espacio de grimorio %s no existe",
+  "message.ars_curio_spellbook.no_spellbook_slots": "No tienes espacios de grimorio",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Se ha eliminado el espacio de grimorio %s. Espacio 1 seleccionado."
+}

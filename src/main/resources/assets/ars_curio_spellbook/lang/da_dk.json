@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Vælg trylleformular i udstyret tryllebog",
+  "key.ars_curio_spellbook.cast_spell": "Kast trylleformular fra udstyret tryllebog",
+  "key.ars_curio_spellbook.edit_spellbook": "Rediger udstyret tryllebog",
+  "key.ars_curio_spellbook.next_spellbook": "Vælg næste udstyrede tryllebog",
+  "key.ars_curio_spellbook.previous_spellbook": "Vælg forrige udstyrede tryllebog",
+  "key.ars_curio_spellbook.next_spell": "Næste trylleformular i udstyret tryllebog",
+  "key.ars_curio_spellbook.previous_spell": "Forrige trylleformular i udstyret tryllebog",
+  "curios.identifier.ars_spellbook": "Tryllebog",
+  "curios.modifiers.ars_spellbook": "Når den bæres som tryllebog:",
+  "message.ars_curio_spellbook.selected_spellbook": "Tryllebogsplads %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Tryllebogsplads %s: tom",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Tryllebogsplads %s findes ikke",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Du har ingen tryllebogspladser",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Tryllebogsplads %s blev fjernet. Plads 1 valgt."
+}

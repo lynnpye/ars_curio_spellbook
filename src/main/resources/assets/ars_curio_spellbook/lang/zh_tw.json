@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "選擇已裝備法術書的法術",
+  "key.ars_curio_spellbook.cast_spell": "施放已裝備法術書的法術",
+  "key.ars_curio_spellbook.edit_spellbook": "編輯已裝備的法術書",
+  "key.ars_curio_spellbook.next_spellbook": "選擇下一本已裝備的法術書",
+  "key.ars_curio_spellbook.previous_spellbook": "選擇上一本已裝備的法術書",
+  "key.ars_curio_spellbook.next_spell": "已裝備法術書的下一個法術",
+  "key.ars_curio_spellbook.previous_spell": "已裝備法術書的上一個法術",
+  "curios.identifier.ars_spellbook": "法術書",
+  "curios.modifiers.ars_spellbook": "作為法術書裝備時：",
+  "message.ars_curio_spellbook.selected_spellbook": "法術書欄位 %s：%s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "法術書欄位 %s：空",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "法術書欄位 %s 不存在",
+  "message.ars_curio_spellbook.no_spellbook_slots": "你沒有法術書欄位",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "法術書欄位 %s 已被移除。已選擇欄位 1。"
+}

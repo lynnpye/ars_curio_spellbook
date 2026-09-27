@@ -1,0 +1,17 @@
+{
+  "key.categories.ars_curio_spellbook": "Ars Curio Spellbook",
+  "key.ars_curio_spellbook.open_spell_radial": "Alege vraja cărții de vrăji echipate",
+  "key.ars_curio_spellbook.cast_spell": "Aruncă vraja cărții de vrăji echipate",
+  "key.ars_curio_spellbook.edit_spellbook": "Editează cartea de vrăji echipată",
+  "key.ars_curio_spellbook.next_spellbook": "Selectează următoarea carte de vrăji echipată",
+  "key.ars_curio_spellbook.previous_spellbook": "Selectează cartea de vrăji echipată anterioară",
+  "key.ars_curio_spellbook.next_spell": "Vraja următoare din cartea de vrăji echipată",
+  "key.ars_curio_spellbook.previous_spell": "Vraja anterioară din cartea de vrăji echipată",
+  "curios.identifier.ars_spellbook": "Carte de vrăji",
+  "curios.modifiers.ars_spellbook": "Când este purtată drept carte de vrăji:",
+  "message.ars_curio_spellbook.selected_spellbook": "Slot carte de vrăji %s: %s — %s",
+  "message.ars_curio_spellbook.empty_spellbook_slot": "Slot carte de vrăji %s: gol",
+  "message.ars_curio_spellbook.missing_spellbook_slot": "Slotul de carte de vrăji %s nu există",
+  "message.ars_curio_spellbook.no_spellbook_slots": "Nu ai sloturi pentru carte de vrăji",
+  "message.ars_curio_spellbook.spellbook_slot_removed": "Slotul de carte de vrăji %s a fost eliminat. Slotul 1 a fost selectat."
+}
