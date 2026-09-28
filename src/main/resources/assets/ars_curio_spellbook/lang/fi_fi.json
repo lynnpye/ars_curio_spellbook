@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Valitse edellinen varustettu loitsukirja",
   "key.ars_curio_spellbook.next_spell": "Seuraava loitsu varustetussa loitsukirjassa",
   "key.ars_curio_spellbook.previous_spell": "Edellinen loitsu varustetussa loitsukirjassa",
-  "curios.identifier.ars_spellbook": "Loitsukirja",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Loitsukirja",
   "curios.modifiers.ars_spellbook": "Kun puettu loitsukirjana:",
   "message.ars_curio_spellbook.selected_spellbook": "Loitsukirjapaikka %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Loitsukirjapaikka %s: tyhjä",

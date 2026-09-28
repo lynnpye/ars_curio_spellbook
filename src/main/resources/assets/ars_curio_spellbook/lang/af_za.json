@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Kies vorige toegeruste towerboek",
   "key.ars_curio_spellbook.next_spell": "Volgende towerspreuk in toegeruste towerboek",
   "key.ars_curio_spellbook.previous_spell": "Vorige towerspreuk in toegeruste towerboek",
-  "curios.identifier.ars_spellbook": "Towerboek",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Towerboek",
   "curios.modifiers.ars_spellbook": "Wanneer as towerboek gedra:",
   "message.ars_curio_spellbook.selected_spellbook": "Towerboekgleuf %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Towerboekgleuf %s: leeg",

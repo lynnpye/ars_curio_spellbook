@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "前の装備中のスペルブックを選択",
   "key.ars_curio_spellbook.next_spell": "装備中のスペルブックの次のスペル",
   "key.ars_curio_spellbook.previous_spell": "装備中のスペルブックの前のスペル",
-  "curios.identifier.ars_spellbook": "スペルブック",
+  "curios.identifier.ars_spellbook": "Ars Nouveau スペルブック",
   "curios.modifiers.ars_spellbook": "スペルブックとして装備時:",
   "message.ars_curio_spellbook.selected_spellbook": "スペルブックスロット %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "スペルブックスロット %s: 空",

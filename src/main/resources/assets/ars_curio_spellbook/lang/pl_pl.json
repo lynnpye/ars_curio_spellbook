@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Wybierz poprzednią noszoną księgę zaklęć",
   "key.ars_curio_spellbook.next_spell": "Następne zaklęcie w noszonej księdze zaklęć",
   "key.ars_curio_spellbook.previous_spell": "Poprzednie zaklęcie w noszonej księdze zaklęć",
-  "curios.identifier.ars_spellbook": "Księga zaklęć",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Księga zaklęć",
   "curios.modifiers.ars_spellbook": "Noszona jako księga zaklęć:",
   "message.ars_curio_spellbook.selected_spellbook": "Miejsce na księgę zaklęć %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Miejsce na księgę zaklęć %s: puste",

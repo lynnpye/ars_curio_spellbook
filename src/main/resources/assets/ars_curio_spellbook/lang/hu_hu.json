@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Előző felszerelt varázskönyv kiválasztása",
   "key.ars_curio_spellbook.next_spell": "Következő varázslat a felszerelt varázskönyvben",
   "key.ars_curio_spellbook.previous_spell": "Előző varázslat a felszerelt varázskönyvben",
-  "curios.identifier.ars_spellbook": "Varázskönyv",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Varázskönyv",
   "curios.modifiers.ars_spellbook": "Varázskönyvként viselve:",
   "message.ars_curio_spellbook.selected_spellbook": "Varázskönyv-hely %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Varázskönyv-hely %s: üres",

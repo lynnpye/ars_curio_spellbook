@@ -23,7 +23,7 @@ import org.lwjgl.glfw.GLFW;
  *   <li>Shift+K opens the spell editor.</li>
  *   <li>K / Ctrl+K select the next / previous ars_spellbook slot that holds a book, for players
  *       with more than one such slot.</li>
- *   <li>Next / previous spell on the selected book: unbound.</li>
+ *   <li>Next / previous spell on the selected book: Ctrl+L / Shift+L.</li>
  * </ul>
  * Cast, radial and editor all act on the selected book. None of these defaults is used by
  * vanilla, Ars Nouveau or Iron's Spells 'n Spellbooks. Note that B is JourneyMap's and Xaero's
@@ -73,20 +73,20 @@ public final class ModKeyMappings {
             GLFW.GLFW_KEY_K,
             CATEGORY);
 
-    /** Unbound by default: the spell menu (H) already covers this; bind it for faster stepping. */
     public static final KeyMapping NEXT_SPELL = new KeyMapping(
             "key." + ArsCurioSpellbook.MODID + ".next_spell",
             KeyConflictContext.IN_GAME,
+            KeyModifier.CONTROL,
             InputConstants.Type.KEYSYM,
-            InputConstants.UNKNOWN.getValue(),
+            GLFW.GLFW_KEY_L,
             CATEGORY);
 
-    /** Unbound by default, like {@link #NEXT_SPELL}. */
     public static final KeyMapping PREVIOUS_SPELL = new KeyMapping(
             "key." + ArsCurioSpellbook.MODID + ".previous_spell",
             KeyConflictContext.IN_GAME,
+            KeyModifier.SHIFT,
             InputConstants.Type.KEYSYM,
-            InputConstants.UNKNOWN.getValue(),
+            GLFW.GLFW_KEY_L,
             CATEGORY);
 
     private ModKeyMappings() {}

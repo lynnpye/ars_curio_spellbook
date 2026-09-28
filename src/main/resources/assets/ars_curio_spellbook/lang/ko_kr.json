@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "이전 착용 마도서 선택",
   "key.ars_curio_spellbook.next_spell": "착용한 마도서의 다음 주문",
   "key.ars_curio_spellbook.previous_spell": "착용한 마도서의 이전 주문",
-  "curios.identifier.ars_spellbook": "마도서",
+  "curios.identifier.ars_spellbook": "Ars Nouveau 마도서",
   "curios.modifiers.ars_spellbook": "마도서로 착용 시:",
   "message.ars_curio_spellbook.selected_spellbook": "마도서 슬롯 %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "마도서 슬롯 %s: 비어 있음",

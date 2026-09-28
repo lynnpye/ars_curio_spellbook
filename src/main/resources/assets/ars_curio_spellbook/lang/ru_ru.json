@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Предыдущая надетая книга заклинаний",
   "key.ars_curio_spellbook.next_spell": "Следующее заклинание надетой книги",
   "key.ars_curio_spellbook.previous_spell": "Предыдущее заклинание надетой книги",
-  "curios.identifier.ars_spellbook": "Книга заклинаний",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Книга заклинаний",
   "curios.modifiers.ars_spellbook": "Если надето как книга заклинаний:",
   "message.ars_curio_spellbook.selected_spellbook": "Слот книги заклинаний %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Слот книги заклинаний %s: пусто",

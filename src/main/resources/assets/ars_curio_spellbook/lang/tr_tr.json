@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Önceki kuşanılmış büyü kitabını seç",
   "key.ars_curio_spellbook.next_spell": "Kuşanılmış büyü kitabındaki sonraki büyü",
   "key.ars_curio_spellbook.previous_spell": "Kuşanılmış büyü kitabındaki önceki büyü",
-  "curios.identifier.ars_spellbook": "Büyü Kitabı",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Büyü Kitabı",
   "curios.modifiers.ars_spellbook": "Büyü kitabı olarak kuşanıldığında:",
   "message.ars_curio_spellbook.selected_spellbook": "Büyü kitabı yuvası %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Büyü kitabı yuvası %s: boş",

@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Επιλογή προηγούμενου εξοπλισμένου βιβλίου ξορκιών",
   "key.ars_curio_spellbook.next_spell": "Επόμενο ξόρκι εξοπλισμένου βιβλίου ξορκιών",
   "key.ars_curio_spellbook.previous_spell": "Προηγούμενο ξόρκι εξοπλισμένου βιβλίου ξορκιών",
-  "curios.identifier.ars_spellbook": "Βιβλίο ξορκιών",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Βιβλίο ξορκιών",
   "curios.modifiers.ars_spellbook": "Όταν φοριέται ως βιβλίο ξορκιών:",
   "message.ars_curio_spellbook.selected_spellbook": "Θέση βιβλίου ξορκιών %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Θέση βιβλίου ξορκιών %s: κενή",

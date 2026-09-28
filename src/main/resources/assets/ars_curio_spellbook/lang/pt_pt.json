@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Selecionar o livro de feitiços equipado anterior",
   "key.ars_curio_spellbook.next_spell": "Feitiço seguinte do livro de feitiços equipado",
   "key.ars_curio_spellbook.previous_spell": "Feitiço anterior do livro de feitiços equipado",
-  "curios.identifier.ars_spellbook": "Livro de feitiços",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Livro de feitiços",
   "curios.modifiers.ars_spellbook": "Quando equipado como livro de feitiços:",
   "message.ars_curio_spellbook.selected_spellbook": "Espaço de livro de feitiços %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Espaço de livro de feitiços %s: vazio",

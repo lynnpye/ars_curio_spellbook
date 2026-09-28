@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "اختيار كتاب التعاويذ المُجهَّز السابق",
   "key.ars_curio_spellbook.next_spell": "التعويذة التالية في كتاب التعاويذ المُجهَّز",
   "key.ars_curio_spellbook.previous_spell": "التعويذة السابقة في كتاب التعاويذ المُجهَّز",
-  "curios.identifier.ars_spellbook": "كتاب التعاويذ",
+  "curios.identifier.ars_spellbook": "Ars Nouveau كتاب التعاويذ",
   "curios.modifiers.ars_spellbook": "عند ارتدائه ككتاب تعاويذ:",
   "message.ars_curio_spellbook.selected_spellbook": "خانة كتاب التعاويذ %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "خانة كتاب التعاويذ %s: فارغة",

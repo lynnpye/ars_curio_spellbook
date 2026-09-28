@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Velg forrige utstyrte tryllebok",
   "key.ars_curio_spellbook.next_spell": "Neste trylleformel i utstyrt tryllebok",
   "key.ars_curio_spellbook.previous_spell": "Forrige trylleformel i utstyrt tryllebok",
-  "curios.identifier.ars_spellbook": "Tryllebok",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Tryllebok",
   "curios.modifiers.ars_spellbook": "Når den bæres som tryllebok:",
   "message.ars_curio_spellbook.selected_spellbook": "Tryllebokplass %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Tryllebokplass %s: tom",

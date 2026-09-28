@@ -1,18 +1,60 @@
 # Ars Curio Spellbook
 
+**Ars Curio Spellbook** adds a dedicated Curios slot for Ars Nouveau spellbooks. Equip a book there and use it entirely from hotkeys, so your hands stay free for a sword, a shield, tools, a wand or even a second spellbook.
+
+### Features
+
+- **A slot just for Ars spellbooks.** It has its own slot type, so it doesn't compete with other mods' spellbook or charm slots. Any Ars Nouveau spellbook fits, including spellbooks added by Ars addons, with no tag editing required.
+- **Cast without holding the book.** Casting from the worn book behaves like casting from your hand: mana costs, spell rules and "invalid spell" feedback all work as usual. One cast per key press.
+- **Pick spells with Ars' own radial menu**, opened for the worn book, or step through its spells with next/previous keys.
+- **Edit the worn book** in Ars Nouveau's normal spell editor, whatever you're holding. Changes are saved to the worn book, never to the item in your hand.
+- **Carry several books.** If your modpack (or a command) gives you more than one spellbook slot, switch between them with a hotkey. Your choice is remembered through relogs, server restarts and death.
+- **Always know what you'll cast.** A brief action-bar message shows the selected slot, book and spell whenever you switch books or spells.
+- **Plays nicely with Ars Nouveau's own keys.** The book in your hand still works exactly as before, and Ars' Head Curio Menu key isn't disrupted by the worn book.
+- **Multiplayer-ready.** All changes are made and checked by the server.
+
+### Hotkeys
+
+All of these can be rebound under **Options → Controls → Key Binds → Ars Curio Spellbook**, including to mouse buttons or with Shift/Ctrl/Alt modifiers:
+
+- **Cast Worn Spellbook Spell**
+- **Select Worn Spellbook Spell** (radial menu)
+- **Edit Worn Spellbook**
+- **Select Next Worn Spellbook** / **Select Previous Worn Spellbook**
+- **Next Spell in Worn Spellbook** / **Previous Spell in Worn Spellbook**
+
+### How to use
+
+1. Put an Ars Nouveau spellbook in the **Ars Nouveau Spellbook** (Curios slot id `ars_spellbook`) slot of the Curios inventory.
+2. Use the select-spell key to choose a spell, and the cast key to cast it.
+3. With more than one spellbook slot, use the next/previous spellbook keys to choose which book the other keys act on.
+
+### Requirements
+
+- Minecraft 1.21.1 with NeoForge
+- Ars Nouveau 5.11 or newer
+- Curios API
+
+### For modpack makers
+
+- Players get one spellbook slot by default. Add more with standard Curios slot data or `/curios add ars_spellbook <player>`.
+- Items in the `curios:ars_spellbook` item tag are also accepted in the slot.
+
+## More Details
+
 NeoForge mod for Minecraft 1.21.1. It adds a Curios slot called `ars_spellbook` that holds an Ars Nouveau
 spellbook, plus hotkeys that use the worn book without it being in your hand. Modpacks can give players more
 than one `ars_spellbook` slot; the hotkeys then act on the selected one.
 
-| Key | Default | What it does |
-|---|---|---|
-| Select Worn Spellbook Spell | `H` | Opens Ars Nouveau's radial spell menu for the worn book. |
-| Cast Worn Spellbook Spell | `B` | Casts the worn book's selected spell. |
+| Key | Default   | What it does |
+|---|-----------|---|
+| Select Worn Spellbook Spell | `H`       | Opens Ars Nouveau's radial spell menu for the worn book. |
+| Cast Worn Spellbook Spell | `B`       | Casts the worn book's selected spell. |
 | Edit Worn Spellbook | `Shift+K` | Opens Ars Nouveau's spell editor on the worn book. |
-| Select Next Worn Spellbook | `K` | With several `ars_spellbook` slots, selects the next slot (empty or not). |
-| Select Previous Worn Spellbook | `Ctrl+K` | Selects the previous slot. |
-| Next Spell in Worn Spellbook | *unbound* | Selects the selected book's next spell (through every spell slot, wrapping), like Ars' X for a held book. |
-| Previous Spell in Worn Spellbook | *unbound* | Selects its previous spell, like Ars' Z. |
+| Select Next Worn Spellbook | `K`       | With several `ars_spellbook` slots, selects the next slot (empty or not). |
+| Select Previous Worn Spellbook | `Ctrl+K`  | Selects the previous slot. |
+| Next Spell in Worn Spellbook | `Ctrl+L`  | Selects the selected book's next spell (through every spell slot, wrapping), like Ars' X for a held book. |
+| Previous Spell in Worn Spellbook | `Shift+L` | Selects its previous spell, like Ars' Z. |
 
 You can rebind all of them under **Options → Controls → Key Binds → Ars Curio Spellbook**. You can also bind them to
 mouse buttons or add modifier keys.
@@ -123,22 +165,6 @@ The key works whatever you're holding, including another spellbook.
 
 ## Known interactions
 
-- **Why B, H and K.** B keeps casting on the left hand, within reach of WASD. H and K put the menu, editor and
-  book selection on the right side of the keyboard. None of them is used by vanilla Minecraft, Ars Nouveau (C, V, X, Z, G) or Iron's Spells 'n Spellbooks
-  (R, V, Left Alt).
-- **B is JourneyMap's and Xaero's Minimap's default "create waypoint" key.** With either map mod installed,
-  casting will also drop a waypoint until one of the two is rebound.
-- **Keys are read once per client tick**, as NeoForge recommends for key bindings. Minecraft also counts the
-  operating system's auto-repeat as presses, so the cast and book-selection keys only fire when they weren't
-  already held on the previous tick. That gives one cast, or one step through the books or spells, per press.
-- **A single press never does two things.** If someone rebinds the two keys to a pair like `X` and
-  `Shift+X`, NeoForge only triggers the binding whose modifier matches, so they stay separate. If both are bound
-  to exactly the same key, only the first in this order acts: spell menu, editor, next book, previous book,
-  next spell, previous spell, cast.
-- If you rebind the cast key to Ars Nouveau's "Selection HUD" key (V by default) and you're holding a spellbook
-  or other radial item, Ars' menu for the held item opens and the worn book does **not** cast.
-- A held book won't cast when you right-click a block entity such as a chest, because the right-click goes to
-  the block. The cast key has no block interaction of its own, so it always casts.
 - **Ars' "Head Curio Menu" key (G by default) ignores the worn book.** That key is meant for the Alchemist's
   Crown. It toggles the radial menu of every worn item that has one, so a worn spellbook would get caught in it.
   With the crown also worn, the menu would open and immediately close. With the book alone, the book's menu
@@ -148,10 +174,3 @@ The key works whatever you're holding, including another spellbook.
 - **The mixins depend on Ars Nouveau internals.** They're marked required, so if a future Ars version
   changes the editor's constructor, the save packets or the head-curio key handler, the game will fail to start with a mixin error instead
   of silently saving to the wrong book. Casting and the spell menu use only Ars' public API.
-- The slot icon (`textures/slot/ars_spellbook.png`) is a simple placeholder. Swap in your own 16×16 image.
-- **Translations.** The lang folder covers the same 29 languages Ars Nouveau ships, plus `en_us`. Where Ars'
-  own word for "spellbook" is a real one (Grimorio, スペルブック, 마도서, Книга заклять…), these files use it so the
-  terms match. Where Ars' translation says "spelling book" instead (ar_sa, da_dk, el_gr, he_il, no_no, sv_se,
-  vi_vn, and similar in af_za, hu_hu, nl_nl), these files use the proper word for spellbook. These are
-  machine-drafted and should be checked by native speakers; corrections are welcome. The key category keeps the
-  mod's name untranslated. Any missing key falls back to English.

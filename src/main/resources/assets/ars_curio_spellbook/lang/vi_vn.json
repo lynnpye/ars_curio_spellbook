@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Chọn sách thần chú đang trang bị trước đó",
   "key.ars_curio_spellbook.next_spell": "Phép tiếp theo trong sách thần chú đang trang bị",
   "key.ars_curio_spellbook.previous_spell": "Phép trước đó trong sách thần chú đang trang bị",
-  "curios.identifier.ars_spellbook": "Sách thần chú",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Sách thần chú",
   "curios.modifiers.ars_spellbook": "Khi mang như sách thần chú:",
   "message.ars_curio_spellbook.selected_spellbook": "Ô sách thần chú %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Ô sách thần chú %s: trống",

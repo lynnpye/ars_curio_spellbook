@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "选择上一本已装备的法术书",
   "key.ars_curio_spellbook.next_spell": "已装备法术书的下一个法术",
   "key.ars_curio_spellbook.previous_spell": "已装备法术书的上一个法术",
-  "curios.identifier.ars_spellbook": "法术书",
+  "curios.identifier.ars_spellbook": "Ars Nouveau 法术书",
   "curios.modifiers.ars_spellbook": "作为法术书装备时：",
   "message.ars_curio_spellbook.selected_spellbook": "法术书槽位 %s：%s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "法术书槽位 %s：空",

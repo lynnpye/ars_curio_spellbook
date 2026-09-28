@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Vorheriges angelegtes Zauberbuch wählen",
   "key.ars_curio_spellbook.next_spell": "Nächster Zauber im angelegten Zauberbuch",
   "key.ars_curio_spellbook.previous_spell": "Vorheriger Zauber im angelegten Zauberbuch",
-  "curios.identifier.ars_spellbook": "Zauberbuch",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Zauberbuch",
   "curios.modifiers.ars_spellbook": "Wenn als Zauberbuch getragen:",
   "message.ars_curio_spellbook.selected_spellbook": "Zauberbuch-Slot %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Zauberbuch-Slot %s: leer",

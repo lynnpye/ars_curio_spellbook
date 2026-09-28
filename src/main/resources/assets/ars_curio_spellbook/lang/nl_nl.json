@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Vorig uitgerust spreukenboek selecteren",
   "key.ars_curio_spellbook.next_spell": "Volgende spreuk in uitgerust spreukenboek",
   "key.ars_curio_spellbook.previous_spell": "Vorige spreuk in uitgerust spreukenboek",
-  "curios.identifier.ars_spellbook": "Spreukenboek",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Spreukenboek",
   "curios.modifiers.ars_spellbook": "Wanneer gedragen als spreukenboek:",
   "message.ars_curio_spellbook.selected_spellbook": "Spreukenboekslot %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Spreukenboekslot %s: leeg",

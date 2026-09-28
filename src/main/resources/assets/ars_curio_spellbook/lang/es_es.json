@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Seleccionar grimorio equipado anterior",
   "key.ars_curio_spellbook.next_spell": "Siguiente hechizo del grimorio equipado",
   "key.ars_curio_spellbook.previous_spell": "Hechizo anterior del grimorio equipado",
-  "curios.identifier.ars_spellbook": "Grimorio",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Grimorio",
   "curios.modifiers.ars_spellbook": "Equipado como grimorio:",
   "message.ars_curio_spellbook.selected_spellbook": "Espacio de grimorio %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Espacio de grimorio %s: vacío",

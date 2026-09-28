@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Seleziona libro degli incantesimi equipaggiato precedente",
   "key.ars_curio_spellbook.next_spell": "Incantesimo successivo del libro equipaggiato",
   "key.ars_curio_spellbook.previous_spell": "Incantesimo precedente del libro equipaggiato",
-  "curios.identifier.ars_spellbook": "Libro degli incantesimi",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Libro degli incantesimi",
   "curios.modifiers.ars_spellbook": "Quando indossato come libro degli incantesimi:",
   "message.ars_curio_spellbook.selected_spellbook": "Slot libro degli incantesimi %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Slot libro degli incantesimi %s: vuoto",

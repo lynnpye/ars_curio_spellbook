@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Välj föregående utrustade trollbok",
   "key.ars_curio_spellbook.next_spell": "Nästa trollformel i utrustad trollbok",
   "key.ars_curio_spellbook.previous_spell": "Föregående trollformel i utrustad trollbok",
-  "curios.identifier.ars_spellbook": "Trollbok",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Trollbok",
   "curios.modifiers.ars_spellbook": "När den bärs som trollbok:",
   "message.ars_curio_spellbook.selected_spellbook": "Trollboksplats %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Trollboksplats %s: tom",

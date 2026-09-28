@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Sélectionner le livre de sorts équipé précédent",
   "key.ars_curio_spellbook.next_spell": "Sort suivant du livre de sorts équipé",
   "key.ars_curio_spellbook.previous_spell": "Sort précédent du livre de sorts équipé",
-  "curios.identifier.ars_spellbook": "Livre de sorts",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Livre de sorts",
   "curios.modifiers.ars_spellbook": "Porté comme livre de sorts :",
   "message.ars_curio_spellbook.selected_spellbook": "Emplacement de livre de sorts %s : %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Emplacement de livre de sorts %s : vide",

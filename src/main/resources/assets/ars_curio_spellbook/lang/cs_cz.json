@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Vybrat předchozí nasazenou knihu kouzel",
   "key.ars_curio_spellbook.next_spell": "Další kouzlo v nasazené knize kouzel",
   "key.ars_curio_spellbook.previous_spell": "Předchozí kouzlo v nasazené knize kouzel",
-  "curios.identifier.ars_spellbook": "Kniha kouzel",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Kniha kouzel",
   "curios.modifiers.ars_spellbook": "Při nošení jako kniha kouzel:",
   "message.ars_curio_spellbook.selected_spellbook": "Slot knihy kouzel %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Slot knihy kouzel %s: prázdný",

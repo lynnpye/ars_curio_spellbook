@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "Selectează cartea de vrăji echipată anterioară",
   "key.ars_curio_spellbook.next_spell": "Vraja următoare din cartea de vrăji echipată",
   "key.ars_curio_spellbook.previous_spell": "Vraja anterioară din cartea de vrăji echipată",
-  "curios.identifier.ars_spellbook": "Carte de vrăji",
+  "curios.identifier.ars_spellbook": "Ars Nouveau Carte de vrăji",
   "curios.modifiers.ars_spellbook": "Când este purtată drept carte de vrăji:",
   "message.ars_curio_spellbook.selected_spellbook": "Slot carte de vrăji %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "Slot carte de vrăji %s: gol",

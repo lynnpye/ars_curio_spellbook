@@ -7,7 +7,7 @@
   "key.ars_curio_spellbook.previous_spellbook": "בחירת ספר הלחשים המצויד הקודם",
   "key.ars_curio_spellbook.next_spell": "הלחש הבא בספר הלחשים המצויד",
   "key.ars_curio_spellbook.previous_spell": "הלחש הקודם בספר הלחשים המצויד",
-  "curios.identifier.ars_spellbook": "ספר לחשים",
+  "curios.identifier.ars_spellbook": "Ars Nouveau ספר לחשים",
   "curios.modifiers.ars_spellbook": "כאשר נלבש כספר לחשים:",
   "message.ars_curio_spellbook.selected_spellbook": "משבצת ספר לחשים %s: %s — %s",
   "message.ars_curio_spellbook.empty_spellbook_slot": "משבצת ספר לחשים %s: ריקה",
